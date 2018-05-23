@@ -1,8 +1,8 @@
 {
-	"title": "Crisis Management Checklist",
-	"description": "Dealing with recovery crisis. Based on Saving Great Projects 2017 Python Brasil",
-	"repo": "https://github.com/vintasoftware/crisis-management-checklist",
-	"primary-color": "#4b5767",
+	"title": "Pull Requests Checklist",
+	"description": "Do's and Don'ts for Pull Requests. Improve code quality and review speed.",
+	"repo": "https://github.com/vintasoftware/pull-requests-checklist",
+	"primary-color": "#004f93",
 	"langs": {
 		"en": "english"
 	}

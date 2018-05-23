@@ -1,7 +1,7 @@
-# Crisis Management Checklist
-Useful checklist for dealing with recovery crisis. Based on "Saving Great Projects" 2017 Python Brasil
+# Pull Requests Checklist
+Useful checklist for dealing with pull requests.
 
-Available online at [crisismanagement.devchecklists.com](http://crisismanagement.devchecklists.com)
+Available online at [pullrequests.devchecklists.com](http://pullrequests.devchecklists.com)
 
 Feel free to contribute!
 
