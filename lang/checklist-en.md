@@ -6,7 +6,7 @@
   * [ ] Read thoroughly the feature description to check if everything is implemented.
   * [ ] Run the code and use it as the end user would. Double check requested feature’s description.
 
-[ ] Creating the pull request
+[ ]  Creating the pull request
   * [ ] Create Pull Request (but don't assign it yet).
   * [ ] Describe how to test the PR: urls, environment variables and other needs.
   * [ ] Refer to issue(s)/Trello card(s) the PR solves.
@@ -15,12 +15,12 @@
   * [ ] Add screenshots of the new behavior, if applicable.
   * [ ] Add a description including the context and the chosen implementation strategy.
   * [ ] Explain code lines which the reviewer might not understand correctly:
-    - Don't do it in the description, do it in the code itself as comments.
-    - Consider refactoring and changing variable/function/method names to make it clearer.
+  * Don't do it in the description, do it in the code itself as comments.
+  * Consider refactoring and changing variable/function/method names to make it clearer.
 
-[ ] PR Self Review
+[ ] PR Self Review: 
+##### Look for the following problems:
 
-  * **Look for the following problems:**
   * [ ] Code is not following code style guidelines (add links to your guidelines here when copying this checklist).
   * [ ] Bad naming: make sure you would understand your code if you read it a few months from now.
   * [ ] KISS: Keep it simple, Sweetie (not stupid!).
@@ -38,11 +38,11 @@
   * [ ] Other possible improvements (add to this Checklist if it's a general concept - it's open source!).
   * [ ] Once all problems are addressed, allocate the reviewer.
 
-[ ] Responding to feedback
+[ ]  Responding to feedback
 
   * [ ] If any problem hasn’t been addressed and the PR needs to be accepted ASAP, create new issues for remaining problems.
   * [ ] Respond all of the reviewer's comments ASAP:
-    * Be grateful for the reviewer's suggestions. ("Good call. I'll make that change.").
-    * Don't take it personally. The review is of the code, not yourself.
-    * Try to understand the reviewer's perspective.
+  * Be grateful for the reviewer's suggestions. ("Good call. I'll make that change.").
+  * Don't take it personally. The review is of the code, not yourself.
+  * Try to understand the reviewer's perspective.
   * [ ] Once you receive feedback and address all issues, merge and close the PR/branch.
