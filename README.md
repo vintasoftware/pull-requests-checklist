@@ -3,7 +3,7 @@
 # Pull Requests Checklist
 
 ## Adding a New Language:
-  * [ ] To add a new language you will need to create another markdown file containing the new [acronym language:](http://sustainablesources.com/resources/country-abbreviations/)
+  * [ ] To add a new language you will need to create another markdown file containing the new [acronym language:](https://www.loc.gov/standards/iso639-2/php/code_list.php)
     * E.g. `checklist-pt.md`.
   * [ ] No further approval will be necessary;
   * [ ] The new checklist language should be visible on Devckecklists after you saved the file on your forked repository.
