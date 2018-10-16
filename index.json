@@ -1,9 +1,0 @@
-{
-	"title": "Pull Requests Checklist",
-	"description": "Do's and Don'ts for Pull Requests. Improve code quality and review speed.",
-	"repo": "https://github.com/vintasoftware/pull-requests-checklist",
-	"primary-color": "#004f93",
-	"langs": {
-		"en": "english"
-	}
-}
